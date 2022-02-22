@@ -67,22 +67,26 @@ var total = 0;
 function buy(id) {
     // 1. Loop for to the array products to get the item to add to cart
     // 2. Add found product to the cartList array
+    cart.push[(products)];
+    cartList.push[(products)];
 }
 
 // Exercise 2
 function cleanCart() {
-
+ cart.delete();
 }
 
 // Exercise 3
 function calculateTotal() {
     // Calculate total price of the cart using the "cartList" array
+    total = sum(cartList.products.price);
 }
 
 // Exercise 4
 function generateCart() {
     // Using the "cartlist" array that contains all the items in the shopping cart, 
     // generate the "cart" array that does not contain repeated items, instead each item of this array "cart" shows the quantity of product.
+    cartList 
 }
 
 // Exercise 5
